@@ -5,3 +5,6 @@ Simple Views with Navigation Bar and an AlertView.
 
 - Views with NavigationBar
 - AlertView
+
+
+<img src="Screenshots/Screenchot2.png" width="320px" />
