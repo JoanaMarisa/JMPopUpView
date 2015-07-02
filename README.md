@@ -7,4 +7,4 @@ Simple Views with Navigation Bar and an AlertView.
 - AlertView
 
 
-<img src="Screenshots/Screenchot2.png" width="320px" />
+<img src="Screenshots/Screenshot2.png" width="320px" />
